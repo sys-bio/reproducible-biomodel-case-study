@@ -2,7 +2,7 @@ ipympl
 matplotlib
 numpy
 pandas
-jupyter[notebook]
+jupyterlab
 tellurium
 lmfit
 SBstoat
