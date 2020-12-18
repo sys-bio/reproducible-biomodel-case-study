@@ -6,3 +6,4 @@ jupyterlab
 tellurium
 lmfit
 SBstoat
+SBMLLint
