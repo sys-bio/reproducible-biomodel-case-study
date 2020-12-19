@@ -8,10 +8,13 @@
 
 ## Start a session
 - ``source rcs/bin/activate``  # Activate the virtual environment
-
-## Run a notebook
 - ``jupyter lab``  # Start jupyter labs
 - Copy the URL shown in the terminal session into your web browser
+
+## Open a notebook
+- Use the left pane to select the notebook
+- Double click on the desired notebook
+- To run the notebook, kernel>Restart kernel and run all cells
 
 ## End a session
 - ``deactivate``   # Exit the virtual environment
