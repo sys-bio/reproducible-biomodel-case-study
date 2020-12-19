@@ -14,7 +14,7 @@
 ## Open a notebook
 - Use the left pane to select the notebook
 - Double click on the desired notebook
-- To run the notebook, kernel>Restart kernel and run all cells
+- To run the notebook, ``kernel>Restart kernel and run all cells``
 
 ## End a session
 - ``deactivate``   # Exit the virtual environment
