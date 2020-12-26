@@ -1,2 +1,0 @@
-PYTHONPATH=$HOME/SBstoat
-export PYTHONPATH
