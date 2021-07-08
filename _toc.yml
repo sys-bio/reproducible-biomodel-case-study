@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: markdown/intro
+chapters:
+- file: markdown/modeling
+- file: markdown/stoichiometricNetworks
+- file: notebooks/kinetics
+- file: notebooks/model_construction
+- file: notebooks/model_simulation
+- file: markdown/plotting
+- file: markdown/simulation
+- file: notebooks/parameter_fitting
+- file: markdown/analysis
+- file: notebooks/standardized_formats
+- file: notebooks/testing
+- file: markdown
+- file: notebooks/notebooks_test
