@@ -1,4 +1,3 @@
-ipympl
 matplotlib
 numpy
 pandas
@@ -7,3 +6,9 @@ tellurium
 lmfit
 SBstoat
 SBMLLint
+ipywidgets
+jupyter-book
+sbmlutils
+phrasedml
+requests
+bioservices
