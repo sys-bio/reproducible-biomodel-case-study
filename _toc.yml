@@ -15,5 +15,3 @@ chapters:
 - file: markdown/analysis
 - file: notebooks/standardized_formats
 - file: notebooks/testing
-- file: markdown
-- file: notebooks/notebooks_test
