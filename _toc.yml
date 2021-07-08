@@ -6,12 +6,12 @@ root: markdown/intro
 chapters:
 - file: markdown/modeling
 - file: markdown/stoichiometricNetworks
-- file: notebooks/kinetics
+#- file: notebooks/kinetics
 - file: notebooks/model_construction
 - file: notebooks/model_simulation
 - file: markdown/plotting
 - file: markdown/simulation
-- file: notebooks/parameter_fitting
+#- file: notebooks/parameter_fitting
 - file: markdown/analysis
 - file: notebooks/standardized_formats
-- file: notebooks/testing
+#- file: notebooks/testing
