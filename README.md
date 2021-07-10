@@ -18,3 +18,7 @@
 
 ## End a session
 - ``deactivate``   # Exit the virtual environment
+
+## Building the book
+- rm -rf reproducible-biomodel-case-study/_build
+- jupyter-book build reproducible-biomodel-case-study 
