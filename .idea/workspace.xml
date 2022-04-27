@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a34947a8-18d5-4382-b26a-913ed295011f" name="Default Changelist" comment="Updated _toc.yml">
+      <change beforePath="$PROJECT_DIR$/notebooks/model_construction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/model_construction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/model_simulation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/model_simulation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/standardized_formats.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/standardized_formats.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1oLibjjsYMXnXsalQTj7iZnA9Aa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a34947a8-18d5-4382-b26a-913ed295011f" name="Default Changelist" comment="" />
+      <created>1613072345337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613072345337</updated>
+      <workItem from="1613072346805" duration="1626000" />
+      <workItem from="1613104046260" duration="1356000" />
+      <workItem from="1613151792467" duration="697000" />
+      <workItem from="1613509927639" duration="23000" />
+      <workItem from="1613694669190" duration="201000" />
+      <workItem from="1613849760749" duration="50000" />
+      <workItem from="1613931156369" duration="499000" />
+      <workItem from="1613932422036" duration="22000" />
+      <workItem from="1613932488511" duration="54000" />
+      <workItem from="1613932656015" duration="26000" />
+      <workItem from="1613934664672" duration="925000" />
+      <workItem from="1613936502869" duration="45000" />
+      <workItem from="1613939729200" duration="31000" />
+      <workItem from="1613940062567" duration="36000" />
+      <workItem from="1613940207847" duration="10000" />
+      <workItem from="1613945087236" duration="33000" />
+      <workItem from="1613946196914" duration="70000" />
+      <workItem from="1625067679979" duration="775000" />
+      <workItem from="1625088365710" duration="494000" />
+      <workItem from="1625765110323" duration="3028000" />
+      <workItem from="1625770013095" duration="7949000" />
+      <workItem from="1625780638511" duration="3733000" />
+      <workItem from="1626162149044" duration="30000" />
+      <workItem from="1626185146733" duration="13000" />
+      <workItem from="1626185180100" duration="710000" />
+      <workItem from="1629407484403" duration="1000" />
+      <workItem from="1651086615001" duration="1344000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated model_construction.ipynb, model_simulation.ipynb, and standardized_formats.ipynb.">
+      <created>1625780810040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625780810040</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added _config.yml and _toc.yml.">
+      <created>1625782476182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625782476182</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added references.bib and logo.png">
+      <created>1625782567729</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625782567729</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated _toc.yml">
+      <created>1625782939577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625782939577</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated model_construction.ipynb, model_simulation.ipynb, and standardized_formats.ipynb." />
+    <MESSAGE value="Added _config.yml and _toc.yml." />
+    <MESSAGE value="Added references.bib and logo.png" />
+    <MESSAGE value="Updated _toc.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated _toc.yml" />
+  </component>
+</project>
